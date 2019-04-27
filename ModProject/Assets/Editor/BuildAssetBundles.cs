@@ -6,7 +6,7 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-public class BuildAssetBundles : MonoBehaviour
+public class BuildAssetBundles
 {
 
     [MenuItem("Assets/Build Asset Bundles")]
